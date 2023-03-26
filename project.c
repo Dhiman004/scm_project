@@ -33,7 +33,7 @@ int main() {
                 printf("%d. %s", i + 1, entries[i]);
             }
         } else if (strcmp(command, "QUIT") == 0) {
-            printf("Goodbye!\n");
+            printf("Thank you Goodbye!\n");
             break;
         } else {
             printf("Invalid command. Please try again.\n");
