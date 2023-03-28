@@ -36,7 +36,7 @@ int main() {
             printf("Thank you Goodbye!\n");
             break;
         } else {
-            printf("Invalid command. Please try again.\n");
+            printf("Invalid command ! Please try again.\n");
         }
     }
 
